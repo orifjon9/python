@@ -1,5 +1,4 @@
 from threading import Thread
-import os
 import time
 
 def square_numbers(num:int):
